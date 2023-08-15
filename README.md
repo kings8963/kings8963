@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 <h3>About Me </h3>
-https://kings8963.github.io/portafolio-web/
+https://portfoliokings7nnt.netlify.app/
 
 - 🎓&nbsp; Studying Computer Science in UDG
 
